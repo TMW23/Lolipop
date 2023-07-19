@@ -7,7 +7,7 @@
     <mandatory>false</mandatory>
 	<restricttime>00-00</restricttime>
 	<restrictmsg>Update ke Versi Terbaru.</restrictmsg>
-	<restricttimeNew>08-16</restricttimeNew>
+	<restricttimeNew>03-04</restricttimeNew>
 	<restrictmsgNew>GUNAKAN DILUAR 08-16!</restrictmsgNew>
 	<templateBADANVersion>139</templateBADANVersion>
 	<templateOPVersion>23</templateOPVersion>
