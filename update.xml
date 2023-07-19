@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-    <version>0.8.5.2</version>
+    <version>0.8.5.5</version>
     <url>DetilFPAR.zip</url>
     <changelog>changelog.html</changelog>
     <mandatory>false</mandatory>
 	<restricttime>00-00</restricttime>
 	<restrictmsg>Update ke Versi Terbaru.</restrictmsg>
-	<restricttimeNew>03-04</restricttimeNew>
-	<restrictmsgNew>GUNAKAN DILUAR 08-16!</restrictmsgNew>
+	<restricttimeNew>08-16</restricttimeNew>
+	<restrictmsgNew>GUNAKAN DILUAR 08-17!</restrictmsgNew>
 	<templateBADANVersion>139</templateBADANVersion>
 	<templateOPVersion>23</templateOPVersion>
 	<templateEXBADANVersion>12</templateEXBADANVersion>
