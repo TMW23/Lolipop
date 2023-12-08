@@ -5,7 +5,7 @@
     <url>DetilFPAR.zip</url>
     <changelog>changelog.html</changelog>
     <mandatory>false</mandatory>
-	<restricttime>00-00</restricttime>
+	<restricttime>00-24</restricttime>
 	<restrictmsg>Update ke Versi Terbaru.</restrictmsg>
 	<restricttimeNew>08-16</restricttimeNew>
 	<restrictmsgNew>GUNAKAN DILUAR 08-17!</restrictmsgNew>
